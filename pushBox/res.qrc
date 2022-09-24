@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/again.png</file>
+        <file>image/case.png</file>
+        <file>image/close.png</file>
+        <file>image/end.png</file>
+        <file>image/ground.png</file>
+        <file>image/last.png</file>
+        <file>image/next.png</file>
+        <file>image/people.png</file>
+        <file>image/peopleend.png</file>
+        <file>image/prinnysky.png</file>
+        <file>image/sky.png</file>
+        <file>image/start.png</file>
+        <file>image/wall.png</file>
+        <file>image/win.png</file>
+        <file>image/victory.png</file>
+        <file>image/pushBox.ico</file>
+    </qresource>
+</RCC>
